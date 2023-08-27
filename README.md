@@ -9,3 +9,13 @@ This is code for introducing investment strategies using smart beta strategies w
 <br>
 
 ## Acknowledgement
+This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) 
+(No.RS-2022-00155911, Artificial Intelligence Convergence Innovation Human Resources Development (Kyung Hee University))
+This work was supported by the Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) 
+(No.RS-2022-00155911, Artificial Intelligence Convergence Innovation Human Resources Development (Kyung Hee University))
+
+## Author
+* Jang Ho Kim, Ph.D.
+Associate professor, Department of Industrial and Management Systems Engineering, College of Engineering, Kyung Hee University
+* Ji Young Yoo
+Master's student, Financial Engineering Lab, Department of Big Data Analytics Graduate School,  Kyung Hee University
