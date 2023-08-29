@@ -17,5 +17,5 @@ This work was supported by Institute of Information & communications Technology 
 * Ji Young Yoo  
 Master's student, Financial Engineering Lab, Department of Big Data Analytics Graduate School,  Kyung Hee University
 
-* Advisor | Jang Ho Kim, Ph.D.  
+* [Advisor] Jang Ho Kim, Ph.D.  
 Associate professor, Department of Industrial and Management Systems Engineering, College of Engineering, Kyung Hee University
